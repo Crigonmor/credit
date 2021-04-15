@@ -17,6 +17,7 @@ flex-direction: column;
   min-height: 10px;
 }
 p{
+
   margin-right: 10px;
 }
   @media (min-width: 768px) {
@@ -39,10 +40,14 @@ margin: 3px;
 }
 
 .pa{
-  border: solid 1px red;
+
+
+
+
 
 }
 .co{
+
   border: solid 1px yellow;
   height: 300px;
 
@@ -58,6 +63,33 @@ margin: 3px;
   background-image: url('https://m.media-amazon.com/images/I/613ZzkRXGyL._AC_UL320_.jpg');
   background-repeat:no-repeat;
 }
+.col{
+  border: solid 1px blue;
+}
+.asd{border: solid 1px blue;}
+.d{
+  padding-top: 10px;
+
+  }
+  #carouselExampleCaptions{
+    height: auto;
+    width: auto;
+    align-items: center;
+    align-items: center;
+  }
+  .fa{
+background-color: black;
+  }
+h5{
+
+  align-items: center;
+  align-content:center;
+
+}
+#carouselExampleCaptions{
+
+}
+
 </style>
 </head>
 <body>
