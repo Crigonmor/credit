@@ -65,6 +65,10 @@ border-radius: 7px;
   background-image: url('https://m.media-amazon.com/images/I/613ZzkRXGyL._AC_UL320_.jpg');
   background-repeat:no-repeat;
 }
+.cpu{
+  background-image: url('https://thumb.pccomponentes.com/w-530-530/articles/28/287885/intel-core-i9-10900k-370-ghz.jpg');
+  background-repeat:no-repeat;
+}
 .col{
   border: solid 1px blue;
 }

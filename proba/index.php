@@ -20,31 +20,32 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
 
-            <img src="https://fondosmil.com/fondo/29366.jpg" class="d-block w-100"  alt="...">
+            <img src="https://estaticos.qdq.com/swdata/home_photos/589/589459632/183f83faa4b84333a03d1b0895cb6771.jpg" class="d-block w-100"  alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center">
               <h5>Tot Informatica</h5>
               <p>Tot informatica</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://images3.alphacoders.com/954/thumb-1920-954241.jpg" class="d-block w-100" alt="...">
+            <img src="https://sotein.com.co/wp-content/uploads/2019/06/sotein-Mantenimiento-interno-de-una-computadora.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
               <h5>Tot Informatica</h5>
               <p>Tot Informatica</p>
               <?php
               include_once 'app/Conexion.inc.php';
 
-              
+
                ?>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://images3.alphacoders.com/954/thumb-1920-954241.jpg" class="d-block w-100" alt="...">
+            <img src="https://estaticos.qdq.com/swdata/home_photos/674/674587102/15c06677f7eb428c9d917e5e7c06a1fc.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
 
               <h5>Tot Informaticaa</h5>
               <p>Tot Informatica</p>
             </div>
+            
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
