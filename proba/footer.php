@@ -40,7 +40,9 @@ margin: 3px;
 }
 
 .pa{
-
+border: solid 1px blue;
+border: solid 0.5px #EEEEEE;
+border-radius: 7px;
 
 
 
@@ -88,6 +90,14 @@ h5{
 }
 #carouselExampleCaptions{
 
+}
+.trobens{
+
+  text-align: center;
+
+}
+#separacio{
+  padding-top: 2%;
 }
 
 </style>

@@ -7,7 +7,7 @@
 
 <body>
 
-    
+
 
 
 
@@ -31,6 +31,11 @@
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
               <h5>Tot Informatica</h5>
               <p>Tot Informatica</p>
+              <?php
+              include_once 'app/Conexion.inc.php';
+
+              
+               ?>
             </div>
           </div>
           <div class="carousel-item">

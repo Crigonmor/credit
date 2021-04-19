@@ -147,14 +147,14 @@
             </a>
           </li>
         <li>
-          <a href="#" class="nav-link text-white">
+          <a href="contacte.php" class="nav-link text-white">
             <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#missatge"/></svg>
           Contacte'ns
           </a>
         </li>
 
         <li>
-          <a href="#" class="nav-link text-white">
+          <a href="trobens.php" class="nav-link text-white">
             <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
             Trobe'ns
           </a>
