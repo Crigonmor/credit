@@ -50,12 +50,12 @@ border-radius: 7px;
 }
 .co{
 
-  border: solid 1px yellow;
+
   height: 300px;
 
 }
 .text{
-    border: solid 1px black;
+  text-align: center;
 }
 .titol{
   height: 50px;
@@ -108,33 +108,54 @@ h5{
    width: 282;
  }
  .im-2{
-   background-image: url('img/intel-core-i9-10900k-370-ghz.jpg');
+    max-width: 100%;
+   background-image: url('img/intel-core-i9.jpg');
    background-repeat:no-repeat;
+
 
  }
  .im-3{
-   background-image: url('');
+   background-image: url('img/corsair-amd-ddr4-3200-2x8gb.jpg');
    background-repeat:no-repeat;
 
  }
  .im-4{
-   background-image: url('');
+   background-image: url('img/amd-ryzen-9-5900x.jpg');
    background-repeat:no-repeat;
 
  }
  .im-5{
-   background-image: url('https://m.media-amazon.com/images/I/613ZzkRXGyL._AC_UL320_.jpg');
+   background-image: url('img/amd-radeon-rx-6700xt-12gb-gddr6.jpg');
    background-repeat:no-repeat;
  }
  .im-6{
-   background-image: url('https://m.media-amazon.com/images/I/613ZzkRXGyL._AC_UL320_.jpg');
+   background-image: url('img/msi-750w-modular.jpg');
    background-repeat:no-repeat;
  }
  .im-7{
-   background-image: url('https://m.media-amazon.com/images/I/613ZzkRXGyL._AC_UL320_.jpg');
+   background-image: url('img/msi-mpg-b550.jpg');
    background-repeat:no-repeat;
  }
- 
+ .im-8{
+   background-image: url('img/nfortec-alcyon-256gb-ssd-m2.jpg');
+   background-repeat:no-repeat;
+ }
+ .f{
+  text-align: center;
+  border: solid 1px black;
+  background-color: #EEEEEE;
+
+
+
+ }
+ .a{
+border: solid 1px black;
+ }
+
+.row{
+
+}
+
 
 </style>
 </head>
