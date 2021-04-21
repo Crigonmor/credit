@@ -2,6 +2,13 @@
 
 <?php include 'header.php' ?>
 
+<style>
+h5{
+  border: solid 2.5px #EEEEEE;
+  height: 40%;
+}
+
+</style>
 
 
 
@@ -22,15 +29,14 @@
 
             <img src="https://estaticos.qdq.com/swdata/home_photos/589/589459632/183f83faa4b84333a03d1b0895cb6771.jpg" class="d-block w-100"  alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center">
-              <h5>Tot Informatica</h5>
-              <p>Tot informatica</p>
+              <h5>Tot informatica</h5>
             </div>
           </div>
           <div class="carousel-item">
             <img src="https://sotein.com.co/wp-content/uploads/2019/06/sotein-Mantenimiento-interno-de-una-computadora.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
               <h5>Tot Informatica</h5>
-              <p>Tot Informatica</p>
+
               <?php
               include_once 'app/Conexion.inc.php';
 
@@ -43,9 +49,9 @@
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
 
               <h5>Tot Informaticaa</h5>
-              <p>Tot Informatica</p>
+              
             </div>
-            
+
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">

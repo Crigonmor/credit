@@ -10,6 +10,7 @@
   cursor: pointer;
   color: red;
 }
+
 </style>
 
 <body>
