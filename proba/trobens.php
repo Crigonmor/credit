@@ -34,7 +34,7 @@ font-size:2em;
 
 
 
-<div class="col-12   trobens pa">Trobens</div>
+<div class="col-12   trobens pa">Ens pots trobar a  Caputxins-Ambulatori Vic</div>
 </div>
 
 </div>
