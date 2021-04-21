@@ -147,9 +147,12 @@ border: solid 1px black;
 .row{
 
 }
-
+.Xarxes{
+  background-color:#4c4f51;
+}
 
 </style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 </head>
 <body>
 
@@ -159,9 +162,9 @@ border: solid 1px black;
 <div class="container text-white" >
   <br>
   <ul class=" d-flex justify-content-center  my-1 my-lg-3 me-lg- ">
-      <p>Tot informatica</p>
-      <p>Tot informatica</p>
-      <p>Tot informatica</p>
+      <button class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
+      <button class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
+      <button class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
 
 
     </div>
