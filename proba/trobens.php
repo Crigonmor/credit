@@ -1,4 +1,14 @@
 <?php include 'header.php' ?>
+<style>
+.row{
+  background-color: #EEEEEE;
+  border-radius: 7px;
+  padding-bottom: 10px;
+}
+.f{
+font-size:2em;
+}
+</style>
 <div class="container">
   <div id="separacio">
   <div class="row  pa d">

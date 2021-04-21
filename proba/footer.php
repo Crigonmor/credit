@@ -39,15 +39,7 @@ margin: 3px;
   border: solid 1px;
 }
 
-.pa{
-border: solid 1px blue;
-border: solid 0.5px #EEEEEE;
-border-radius: 7px;
 
-
-
-
-}
 .co{
 
 
