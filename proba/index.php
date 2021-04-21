@@ -6,6 +6,7 @@
 h5{
   border: solid 2.5px #EEEEEE;
   height: 40%;
+  
 }
 
 </style>
@@ -49,7 +50,7 @@ h5{
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
 
               <h5>Tot Informaticaa</h5>
-              
+
             </div>
 
           </div>
