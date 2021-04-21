@@ -159,7 +159,9 @@ border: solid 1px black;
 <div class="container text-white" >
   <br>
   <ul class=" d-flex justify-content-center  my-1 my-lg-3 me-lg- ">
-      <p>Tot informatica</p><p>Tot informatica</p> <p>Tot informatica</p>
+      <p>Tot informatica</p>
+      <p>Tot informatica</p>
+      <p>Tot informatica</p>
 
 
     </div>
