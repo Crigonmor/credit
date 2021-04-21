@@ -91,6 +91,7 @@ h5{
 }
 #separacio{
   padding-top: 2%;
+  padding-bottom: 2%;
 }
 /* image */
  .im-1{
