@@ -148,8 +148,11 @@ border: solid 1px black;
 
 }
 .Xarxes{
+  height: 50px;
+  width:50px;
   background-color:#4c4f51;
 }
+
 
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
