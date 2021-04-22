@@ -153,6 +153,9 @@ border: solid 1px black;
   width:50px;
   background-color:#4c4f51;
 }
+i{
+   font-size: 20px;
+}
 
 
 </style>
@@ -166,9 +169,10 @@ border: solid 1px black;
 <div class="container text-white" >
   <br>
   <ul class=" d-flex justify-content-center  my-1 my-lg-3 me-lg- ">
-      <button onclick="location.href='https://www.instagram.com/'" class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
-      <button onclick="location.href='https://twitter.com/?lang=es'" class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
-      <button onclick="location.href='https://es-es.facebook.com/'" class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
+      <button class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
+      <button class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
+      <button class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
+
 
 
     </div>
