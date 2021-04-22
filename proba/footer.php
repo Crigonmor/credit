@@ -85,7 +85,7 @@ h5{
 
 }
 .trobens{
-
+font-size:2em;
   text-align: center;
 
 }
@@ -134,15 +134,18 @@ h5{
    background-repeat:no-repeat;
  }
  .f{
-  text-align: center;
+   padding-left: 2vw;
   border: solid 1px black;
   background-color: #EEEEEE;
+
 
 
 
  }
  .a{
 border: solid 1px black;
+height: 500px;
+
  }
 
 .row{
