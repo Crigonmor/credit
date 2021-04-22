@@ -36,13 +36,13 @@ img{
 
             <img src="https://estaticos.qdq.com/swdata/home_photos/589/589459632/183f83faa4b84333a03d1b0895cb6771.jpg" class="d-block w-100"  alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center background-size-cover   ">
-              <h5>Tot informatica</h5>
+              <h5>Tenim ofertes en gràfiques i processador AMD, RÀPIT que s'esgoten </h5>
             </div>
           </div>
           <div class="carousel-item">
             <img src="https://sotein.com.co/wp-content/uploads/2019/06/sotein-Mantenimiento-interno-de-una-computadora.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
-              <h5>Tot Informatica</h5>
+              <h5>Segueix-nos a instagram, twitter i facebook per saber mes de nosaltres</h5>
 
               <?php
               include_once 'app/Conexion.inc.php';
@@ -55,7 +55,7 @@ img{
             <img src="https://estaticos.qdq.com/swdata/home_photos/674/674587102/15c06677f7eb428c9d917e5e7c06a1fc.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
 
-              <h5>Tot Informaticaa</h5>
+              <h5>si tens algun problema amb algun dispositiu informàtic porta'l a la botiga nosaltres sabrem que fer.</h5>
 
             </div>
 
