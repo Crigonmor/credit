@@ -1,8 +1,12 @@
 <?php include 'header.php' ?>
 
 <style>
+.co{
+  filter: grayscale(100%);
+  transition:all 250ms ease-in-out; 
+}
 .co:hover {
-
+  filter: grayscale(0%);
   cursor: pointer;
 }
 .text:hover{
