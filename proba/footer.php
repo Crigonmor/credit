@@ -156,7 +156,9 @@ border: solid 1px black;
 i{
    font-size: 20px;
 }
-
+header{
+  filter: drop-shadow(1px 1px 1px black);
+}
 
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">

@@ -9,7 +9,8 @@ h5{
   height: 40%;
   background-color:rgba(255,255,255,0.5);
    text-align: center;
-
+   color: #000000;
+   font-size:1.5em;
 }
 img{
 ;

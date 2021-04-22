@@ -134,27 +134,27 @@
 
       <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
         <li>
-          <a href="index.php" class="nav-link text-white">
+          <a href="index.php" class="nav-link text-dark">
             <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#home"/></svg>
             Inici
           </a>
         </li>
         <li>
           <li>
-            <a href="botiga.php" class="nav-link text-white">
+            <a href="botiga.php" class="nav-link text-dark">
               <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#card"/></svg>
               Botiga
             </a>
           </li>
         <li>
-          <a href="contacte.php" class="nav-link text-white">
+          <a href="contacte.php" class="nav-link text-dark">
             <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#missatge"/></svg>
           Contacte'ns
           </a>
         </li>
 
         <li>
-          <a href="trobens.php" class="nav-link text-white">
+          <a href="trobens.php" class="nav-link text-dark">
             <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
             Trobe'ns
           </a>

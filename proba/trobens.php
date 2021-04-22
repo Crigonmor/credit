@@ -8,12 +8,15 @@
 .f{
 font-size:2em;
 }
+.j{
+  font-size:2em;
+}
 </style>
 <div class="container">
   <div id="separacio">
   <div class="row  pa d">
 
-<div class="col-12   trobens ">Trobens</div>
+<div class="col-12   trobens j ">Trobens</div>
 
 </div>
 <div class="row  pa d ">
@@ -34,7 +37,7 @@ font-size:2em;
 
 
 
-<div class="col-12   trobens pa">Ens pots trobar a  Caputxins-Ambulatori Vic</div>
+<div class="col-12   trobens pa j">Ens pots trobar a  Caputxins-Ambulatori Vic</div>
 </div>
 
 </div>

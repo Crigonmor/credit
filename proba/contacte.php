@@ -1,6 +1,8 @@
 <?php include 'header.php' ?>
-<style>q
-
+<style>
+input{
+  padding-top: 20px;
+}
 </style>
 
   <div class="container">
@@ -16,6 +18,7 @@
             <div class="col-md-12">
             <label>Missatge:</label>
                       <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control"></textarea>
+                      </br>
                       <input type="submit" class="btn btn-info" value="Enviar">
   </div>
 </div>
