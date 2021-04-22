@@ -157,10 +157,23 @@ i{
    font-size: 20px;
 }
 header{
-   
+
    z-index: 1000;
 }
+button{
+  display: flex;
+  border: none;
+  padding-right: 10px;
+  justify-content: space-around;
+  align-items: center;
 
+}
+#Twiter{
+  background-color: none;
+}
+#Insta{
+  background-color: #D2D2D2;
+}
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 </head>
