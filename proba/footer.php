@@ -169,9 +169,9 @@ i{
 <div class="container text-white" >
   <br>
   <ul class=" d-flex justify-content-center  my-1 my-lg-3 me-lg- ">
-      <button class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
-      <button class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
-      <button class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
+      <button onclick="location.href=''" class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
+      <button onclick="location.href=''" class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
+      <button onclick="location.href=''" class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
 
 
 
