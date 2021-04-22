@@ -29,7 +29,7 @@ p{
 background-color: black;
 }
 header{
-  background-color: white;
+  background-color:#D2D2D2;
 }
 
 
