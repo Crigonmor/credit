@@ -154,7 +154,7 @@ border: solid 1px black;
   background-color:#4c4f51;
 }
 i{
-   font-size: 18px;
+   font-size: 20px;
 }
 
 
@@ -172,7 +172,7 @@ i{
       <button class="Xarxes" id="Insta"><i class="fab fa-instagram"></i></button>
       <button class="Xarxes" id="Twiter"><i class="fab fa-twitter-square"></i></button>
       <button class="Xarxes" id="Facebook"><i class="fab fa-facebook"></i></button>
-      
+
 
 
     </div>
