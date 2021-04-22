@@ -45,11 +45,7 @@ img{
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
               <h5>Segueix-nos a instagram, twitter i facebook per saber mes de nosaltres</h5>
 
-              <?php
-              include_once 'app/Conexion.inc.php';
-
-
-               ?>
+              
             </div>
           </div>
           <div class="carousel-item">

@@ -157,7 +157,8 @@ i{
    font-size: 20px;
 }
 header{
-  filter: drop-shadow(1px 1px 1px black);
+   
+   z-index: 1000;
 }
 
 </style>
