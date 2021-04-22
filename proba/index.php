@@ -4,9 +4,15 @@
 
 <style>
 h5{
-  border: solid 2.5px #EEEEEE;
+  padding-top: 7%;
+  border-radius: 7px;
   height: 40%;
-  
+  background-color:rgba(255,255,255,0.5);
+   text-align: center;
+
+}
+img{
+;
 }
 
 </style>
@@ -29,7 +35,7 @@ h5{
           <div class="carousel-item active">
 
             <img src="https://estaticos.qdq.com/swdata/home_photos/589/589459632/183f83faa4b84333a03d1b0895cb6771.jpg" class="d-block w-100"  alt="...">
-            <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center">
+            <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center background-size-cover   ">
               <h5>Tot informatica</h5>
             </div>
           </div>

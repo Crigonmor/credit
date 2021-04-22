@@ -2,11 +2,11 @@
 
 <style>
 .co:hover {
-  border: solid 2.5px #EEEEEE;
+
   cursor: pointer;
 }
 .text:hover{
-  border: solid 2.5px #EEEEEE;
+
   cursor: pointer;
   color: red;
 }
