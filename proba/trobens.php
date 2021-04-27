@@ -34,7 +34,9 @@ text-align: left;
 </div>
 <div class="col-12 f">
   <p class="b">Horari </p>
-  <p> -Dilluns:10:00 - 14:00 16:30 - 20:00 </br>-Dimarts:10:00 - 14:00 16:30 - 20:00 </br>-Dimecres:10:00 - 14:00 16:30 - 20:00</p>
+  <p> -Dilluns:10:00 - 14:00 16:30 - 20:00 </br>-Dimarts:10:00 - 14:00 16:30 - 20:00 </br>-Dimecres:10:00 - 14:00 16:30 - 20:00 </br>-Dijous:10:00 - 14:00 16:30 - 20:00
+</br>-Divendres:10:00 - 14:00 16:30 - 20:00
+</p>
 
 
 
