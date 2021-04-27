@@ -7,11 +7,11 @@ div{
   padding-top: 10px;
 }
 </style>
-
+  <form  method="POST" name="form-work" action="logica/guardar.php">
   <div class="container">
 <div class="col-md-6">
 							<label>Tu nombre:</label>
-							<input type="text" name="name" id="name" class="form-control">
+							<input type="text" name="nombre" id="name" class="form-control">
 						</div>
 
 						<div class="col-md-6">
@@ -20,9 +20,11 @@ div{
 						</div>
             <div class="col-md-12">
             <label>Missatge:</label>
-                      <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control"></textarea>
+                      <textarea name="missatge" id="mensaje" cols="30" rows="10" class="form-control"></textarea>
                       </br>
                       <input type="submit" class="btn btn-info" value="Enviar">
+
   </div>
 </div>
+</form>
 <?php include 'footer.php' ?>
