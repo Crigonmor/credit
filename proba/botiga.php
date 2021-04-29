@@ -7,6 +7,11 @@
   cursor: pointer;
   color: red;
 }
+.co:hover{
+  cursor: pointer;
+  filter: brightness(120%)
+  transition:all 200ms ease-in-out;
+}
 
 </style>
 
