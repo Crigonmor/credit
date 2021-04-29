@@ -13,6 +13,9 @@ h5{
    font-size:1.5em;
 }
 img{
+  object-fit: cover;
+   width: 100%;
+   height: 100vh;
 ;
 }
 
@@ -45,7 +48,7 @@ img{
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
               <h5>Segueix-nos a instagram, twitter i facebook per saber mes de nosaltres</h5>
 
-              
+
             </div>
           </div>
           <div class="carousel-item">

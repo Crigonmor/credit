@@ -157,7 +157,7 @@ height: 500px;
   background-color:#4c4f51;
 }
 i{
-   font-size: 20px;
+   font-size: 5vh;
 }
 header{
 
@@ -171,11 +171,15 @@ button{
   align-items: center;
 
 }
+#facebook{
+  background-color: transparent;
+
+}
 #Twiter{
-  background-color: none;
+  background-color: transparent;
 }
 #Insta{
-  background-color: #D2D2D2;
+  background-color: transparent;
 }
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
