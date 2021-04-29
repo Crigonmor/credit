@@ -8,9 +8,10 @@
   color: red;
 }
 .co:hover{
-  cursor: pointer;
-  filter: brightness(120%)
   transition:all 200ms ease-in-out;
+  cursor: pointer;
+  filter: brightness(125%)
+
 }
 
 </style>
