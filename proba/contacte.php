@@ -10,7 +10,7 @@ div{
   <form  method="POST" name="form-work" action="logica/guardar.php">
   <div class="container">
 <div class="col-md-6">
-							<label>Tu nombre:</label>
+							<label>El teu nom:</label>
 							<input type="text" name="nombre" id="name" class="form-control">
 						</div>
 

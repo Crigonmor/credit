@@ -143,7 +143,7 @@
           <li>
             <a href="botiga.php" class="nav-link text-dark">
               <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#card"/></svg>
-              Botiga
+              Catàleg
             </a>
           </li>
         <li>

@@ -5,6 +5,7 @@
  $missatge  = $_POST['missatge'];
  $email = $_POST['email'];
 
+
 $insertar = "INSERT INTO clientes VALUES ('$nombre','$missatge','$email') ";
 
 $query = mysqli_query($conectar, $insertar);

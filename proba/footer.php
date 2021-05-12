@@ -157,7 +157,7 @@ height: 500px;
   background-color:#4c4f51;
 }
 i{
-   font-size: 5vh;
+   font-size: 200%;
 }
 header{
 

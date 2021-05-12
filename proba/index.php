@@ -12,12 +12,13 @@ h5{
    color: #000000;
    font-size:1.5em;
 }
-img{
+.imatge{
   object-fit: cover;
    width: 100%;
    height: 100vh;
-;
 }
+
+
 
 </style>
 
@@ -38,24 +39,24 @@ img{
         <div class="carousel-inner">
           <div class="carousel-item active">
 
-            <img src="https://estaticos.qdq.com/swdata/home_photos/589/589459632/183f83faa4b84333a03d1b0895cb6771.jpg" class="d-block w-100"  alt="...">
+            <img class="imatge" src="img/im1.jpg" class="d-block w-100"  alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center background-size-cover   ">
-              <h5>Tenim ofertes en gràfiques i processador AMD, RÀPIT que s'esgoten </h5>
+              <h5>Tenim ofertes en gràfiques i processador AMD, RÀPID que s'esgoten </h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://sotein.com.co/wp-content/uploads/2019/06/sotein-Mantenimiento-interno-de-una-computadora.jpg" class="d-block w-100" alt="...">
+            <img class="imatge" src="img/im2.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
-              <h5>Segueix-nos a instagram, twitter i facebook per saber mes de nosaltres</h5>
+              <h5>Segueix-nos a Instagram, Twitter i Facebook per saber mes de nosaltres</h5>
 
 
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://estaticos.qdq.com/swdata/home_photos/674/674587102/15c06677f7eb428c9d917e5e7c06a1fc.jpg" class="d-block w-100" alt="...">
+            <img class="imatge" src="img/im3.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center  ">
 
-              <h5>si tens algun problema amb algun dispositiu informàtic porta'l a la botiga nosaltres sabrem que fer.</h5>
+              <h5>Si tens algun problema amb algun dispositiu informàtic porta'l a la botiga nosaltres sabrem que fer.</h5>
 
             </div>
 
