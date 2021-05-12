@@ -17,7 +17,11 @@ h5{
    width: 100%;
    height: 100vh;
 }
-
+@media (min-width: 768px) {
+  .text {
+    font-size: 1.5rem;
+  }
+}
 
 
 </style>
@@ -41,7 +45,7 @@ h5{
 
             <img class="imatge" src="img/im1.jpg" class="d-block w-100"  alt="...">
             <div class="carousel-caption d-none d-md-block d-flex h-50 align-items-center justify-content-center background-size-cover   ">
-              <h5>Tenim ofertes en gràfiques i processador AMD, RÀPID que s'esgoten </h5>
+              <h5 h5 class="text">Tenim ofertes en gràfiques i processador AMD, RÀPID que s'esgoten </h5>
             </div>
           </div>
           <div class="carousel-item">
